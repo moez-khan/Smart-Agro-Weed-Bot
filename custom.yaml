@@ -1,0 +1,12 @@
+train: /content/train/images
+val: /content/test/images
+
+nc: 7  # Number of classes
+names:
+  - 'Herb paris'
+  - 'Grass'
+  - 'Small weed'
+  - 'Bitter gourd'
+  - 'Sponge gourd'
+  - 'Horse weed'
+  - 'Okra'
